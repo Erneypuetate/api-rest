@@ -36,10 +36,6 @@ services:
       ME_CONFIG_MONGODB_PORT: 27017
       ME_CONFIG_MONGODB_ADMINUSERNAME: user_mongo
       ME_CONFIG_MONGODB_ADMINPASSWORD: password_mongo
-   
-
-
-
 
   adminer:
     image: adminer
